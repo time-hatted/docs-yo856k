@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-wch047.absolutebeachview.co.nz/sitemap.xml
